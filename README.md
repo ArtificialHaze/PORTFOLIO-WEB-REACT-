@@ -1,2 +1,2 @@
 # PORTFOLIO-WEB-REACT-
-Simple and yet beautiful portfolio Website using REACT.
+Simple and yet beautiful portfolio Website using REACT. [IN-PROGRESS]
